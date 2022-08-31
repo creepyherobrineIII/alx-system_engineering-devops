@@ -8,3 +8,6 @@
  >Added File 6, executes mkdir command
  >Added File 7, executes mv command
  >Added File 8, executes rm command
+ >Added File 9, executes rmdir command
+ >Added File 10, executes cd .. command
+ >Added File 11, executes command
