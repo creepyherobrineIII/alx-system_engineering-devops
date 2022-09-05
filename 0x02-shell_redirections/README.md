@@ -7,3 +7,8 @@
  >Created file 5, displays first ten lines of passwd file
  >Created file 6, displays third line of iacta file
  >Created file 7, creates file with text inside
+ >Created file 8, outputs ls command to file
+ >Created file 9, duplicates last line of file
+ >Created file 10, removes files with .js ext
+ >Created file 11, counts number of directories 
+ >Created file 12, displays newest files in desc ord 
