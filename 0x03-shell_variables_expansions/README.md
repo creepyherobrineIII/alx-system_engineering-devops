@@ -9,3 +9,6 @@
  >Created file 7, creates new global var
  >Created file 8, adds val to env var
  >Created file 9, peforms arithmetic using vars
+ >Created file 10, performs exponential function using vars
+ >Created file 11, converts binary to decimal
+ >Created file 12, ouputs alphabet combos in duos
