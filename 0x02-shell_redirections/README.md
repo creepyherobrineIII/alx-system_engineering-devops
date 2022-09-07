@@ -18,3 +18,8 @@
  >Created file 16, display 3 lines after specified term
  >Created file 17, display lines without "bin"
  >Created file 18, display lines starting with a letter
+ >Created file 19, translates certain chars
+ >Created file 20, removes c & C from input
+ >Created file 21, reverses input
+ >Created file 22, display users & home dir, sorted by user
+ >Created file 23, 
