@@ -11,4 +11,10 @@
  >Created file 9, duplicates last line of file
  >Created file 10, removes files with .js ext
  >Created file 11, counts number of directories 
- >Created file 12, displays newest files in desc ord 
+ >Created file 12, displays newest files in desc ord
+ >Created file 13, displays words occuring once
+ >Created file 14, display lines containing "root"
+ >Created file 15, display number of lines with phrase
+ >Created file 16, display 3 lines after specified term
+ >Created file 17, display lines without "bin"
+ >Created file 18, display lines starting with a letter
